@@ -1,0 +1,27 @@
+"Macro": {
+	"fileVersion": 1 ,
+	"numberOfRepetitions": 4 ,
+	"introduceVariability": true ,
+	[
+	"Event": {
+		"millisecondsBeforeEvent": 100 ,
+		"type": MOUSE_CLICK ,
+		"x": 100 ,
+		"y": 100 ,
+		"durationOfEvent": 10 ,
+	}, 
+	"Event": {
+		"millisecondsBeforeEvent": 100 ,
+		"type": MOUSE_CLICK ,
+		"x": 200 ,
+		"y": 200 ,
+		"durationOfEvent": 10 ,
+	}, 
+	"Event": {
+		"millisecondsBeforeEvent": 100 ,
+		"type": MOUSE_CLICK ,
+		"x": 300 ,
+		"y": 300 ,
+		"durationOfEvent": 10 ,
+	}]
+}
